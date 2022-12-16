@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+
+    <string name="notes">My Fixations</string>
+    <string name="notes_title">Title</string>
+    <string name="notes_sub_title">Subtitle</string>
+    <string name="notes_desc">Enter description...</string>
+    <string name="web_url">Enter URL...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Search...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
